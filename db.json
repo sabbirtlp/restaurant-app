@@ -1,0 +1,98 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Chicken Salad",
+      "recipe_image": "https://i.ibb.co.com/9vpNCRF/chicken-salad.jpg",
+      "short_description": "A flavorful stir-fry dish with spicy chicken and vegetables.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom",
+        "100 g bell pepper",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "30 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Creamy Garlic Pasta",
+      "recipe_image": "https://i.ibb.co.com/pjgK09L/Garlic-Pasta.jpg",
+      "short_description": "A rich and creamy garlic pasta dish, perfect for dinner.",
+      "ingredients": [
+        "400 g pasta",
+        "200 ml heavy cream",
+        "4 cloves garlic",
+        "100 g Parmesan cheese",
+        "2 tbsp butter",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "25 min",
+      "calories": "520 calories"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Pasta",
+      "recipe_image": "https://i.ibb.co.com/tP5GBph/pasta.jpg",
+      "short_description": "A healthy and colorful vegan bowl filled with fresh veggies.",
+      "ingredients": [
+        "200 g quinoa",
+        "150 g spinach",
+        "100 g cherry tomatoes",
+        "100 g cucumber",
+        "50 g avocado",
+        "50 g chickpeas",
+        "Lemon dressing"
+      ],
+      "preparing_time": "20 min",
+      "calories": "300 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Grilled Salmon with Asparagus",
+      "recipe_image": "https://i.ibb.co.com/6PHj4tJ/orkun-orcan-3ru16c1m-Ss-U-unsplash.jpg",
+      "short_description": "A light and healthy grilled salmon served with asparagus.",
+      "ingredients": [
+        "2 salmon fillets",
+        "300 g asparagus",
+        "2 tbsp olive oil",
+        "1 lemon",
+        "2 cloves garlic",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "25 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Classic Margherita Pizza",
+      "recipe_image": "https://i.ibb.co.com/3SvD6LL/Pizza.jpg",
+      "short_description": "A simple yet delicious classic Margherita pizza.",
+      "ingredients": [
+        "300 g pizza dough",
+        "200 g mozzarella cheese",
+        "100 g tomato sauce",
+        "50 g basil leaves",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "40 min",
+      "calories": "650 calories"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Beef Tacos",
+      "recipe_image": "https://i.ibb.co.com/RStsyhr/Beef-Tacos.jpg",
+      "short_description": "Tasty and easy-to-make beef tacos with a variety of toppings.",
+      "ingredients": [
+        "400 g ground beef",
+        "8 taco shells",
+        "100 g lettuce",
+        "50 g shredded cheese",
+        "50 g salsa",
+        "2 tbsp taco seasoning"
+      ],
+      "preparing_time": "20 min",
+      "calories": "480 calories"
+    }
+  ]
